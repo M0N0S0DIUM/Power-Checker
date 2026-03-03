@@ -5,6 +5,7 @@
   <!-- Replace with actual image -->
   <img src="images/devguard_hero.jpg" width="600">
 </p>
+
 --- 
 
 [Buy here](https://www.tindie.com/products/41136/)
