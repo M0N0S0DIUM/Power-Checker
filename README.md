@@ -10,7 +10,6 @@
 
 [Buy here](https://www.tindie.com/products/41136/)
 
----
 
 DevGuard 24 is a compact inline protection module designed to protect low-voltage electronics from reverse polarity, overload, and voltage transients.
 
