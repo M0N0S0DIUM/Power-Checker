@@ -1,5 +1,5 @@
-# DevGuard 24  
-### [Inline 3–24V Protection Module](https://www.tindie.com/products/41136/)
+# [DevGuard 24](https://www.tindie.com/products/41136/)  
+### Inline 3–24V Protection Module
 
 <p align="center">
   <!-- Replace with actual image -->
