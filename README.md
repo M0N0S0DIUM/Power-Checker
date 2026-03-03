@@ -105,17 +105,3 @@ Small enough to tuck into almost any setup. Simple enough to use without thinkin
 
 No cables or enclosure included.
 
----
-
-## Repository Contents
-
-- Schematic
-- Board layout
-- Documentation
-- Future revisions (if applicable)
-
----
-
-## License
-
-(Add your license here, e.g. MIT, CERN OHL, or Proprietary)
